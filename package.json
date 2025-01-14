@@ -1,0 +1,10 @@
+{
+  "name": "lang-parser-js",
+  "version": "1.0.0",
+  "description": "lang parser",
+  "main": "index.js",
+  "keywords": ["lang", "parser", "localization"],
+  "author": "nastya",
+  "license": "MIT",
+  "private": false
+}
